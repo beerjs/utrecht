@@ -5,13 +5,20 @@ BeerJS Utrecht is for devs to get together, throw a few back, and learn collecti
 
 Topics so far have been around JavaScript, but in reality the scope is pretty open. We start the meetup by just hanging out and chatting then we will get into presentations. Anyone can present for any amount of time.
 
+Location
+-----------------
+To be announced. Expect a nice beer-y place in the center of picturesque Utrecht. 
+
+Date and time
+-----------------
+To be announced, as well. However, we're currently planning our first Beer JS Utrecht event in the first week of November. Perfect timing for some bo(c)k tasting? 
 
 Want to hang out?
 -----------------
 
 We've yet to plan our first event, but are currently aiming to make it happen in the first week of november. More information will follow soon.
 
-Click the watch button for this repo to get notified of upcoming meeting dates or date and location changes.  Don't forget to star BeerJS Tahoe too.
+Click the watch button for this repo to get notified of upcoming meeting dates or date and location changes.  Don't forget to star BeerJS Utrecht too.
 
 
 Want to share something?
@@ -36,7 +43,6 @@ The Community
 Community is the reason why we do what we do.  We highly value growing together and here are some places where you can do just that.  We can share relevant and cool content, questions, and start discussions... you get the idea.
 
 [BeerJS Slack](https://beerjs.slack.com/)<br />
-[Join the BeerJS Slack Team](https://beerjs-slack-invite.herokuapp.com/)<br />
 [Twitter](https://twitter.com/BeerJS_Utrecht)<br />
 [LinkedIn](https://www.linkedin.com/groups/12000924)
 
