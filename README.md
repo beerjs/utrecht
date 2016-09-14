@@ -7,16 +7,16 @@ Topics so far have been around JavaScript, but in reality the scope is pretty op
 
 Location
 -----------------
-To be announced. Expect a nice beer-y place in the center of picturesque Utrecht. 
+[Belgian Beer Café Olivier](https://utrecht.cafe-olivier.be) in Utrecht.
 
 Date and time
 -----------------
-To be announced, as well. However, we're currently planning our first Beer JS Utrecht event in the first week of November. Perfect timing for some bo(c)k tasting? 
+Thursday the 17th of November, from 19:00. Perfect timing for some bo(c)k tasting? 
 
 Want to hang out?
 -----------------
 
-We've yet to plan our first event, but are currently aiming to make it happen in the first week of november. More information will follow soon.
+We've just picked a date for our first get together. Thursday the 17th @ Olivier, Utrecht. More information will follow soon.
 
 Click the watch button for this repo to get notified of upcoming meeting dates or date and location changes.  Don't forget to star BeerJS Utrecht too.
 
@@ -29,12 +29,6 @@ You can show something you built, talk about something you would like to build, 
 Also feel free to come with problems and questions about your code, my code, or whatever.
 
 Comment on the current meetings issue to formally request time or a topic.
-
-
-Want to bring beer?
-------------------
-
-Of course you do.  Those with beer will be given priority seating ;)  Drinking beer is not required to participate though.
 
 
 The Community
