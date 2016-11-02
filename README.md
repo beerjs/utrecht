@@ -5,11 +5,14 @@ BeerJS Utrecht is for devs to get together, throw a few back, and learn collecti
 
 Topics so far have been around JavaScript, but in reality the scope is pretty open. We start the meetup by just hanging out and chatting then, optionally, we will get into presentations. Anyone can present for any amount of time. For our first get together, there will be no presentations and the focus will be on networking and enjoying chatting with like-minded developers and developers-alike. 
 
-Please do let us know your intention to join us. Sign up is possible either [through this form](http://www.amis.nl/nl-nl/events/beerjs-17-nov-2016/) or by letting any of the organizers know you want to attend.
+Please do let us know your intention to join us by letting any of the organizers know you want to attend.
 
 Location
 -----------------
-[Belgian Beer Café Olivier](https://utrecht.cafe-olivier.be) in Utrecht.
+[Belgian Beer Café Olivier](https://utrecht.cafe-olivier.be) in Utrecht. 
+Address: [Achter Clarenburg 6a, Utrecht](https://goo.gl/maps/yyNfLvhGjSk)
+
+Pro tip: use public transport of park your car in the ['Rijnkade'](https://goo.gl/maps/MhjvHiPweXL2) parking.
 
 Date and time
 -----------------
